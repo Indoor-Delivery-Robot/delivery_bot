@@ -2,6 +2,9 @@
 * author1 -- Yifei Han (yifeih@brandeis.edu)
 * author2 -- Daniel Zhang (danielzhang@brandeis.edu)
 
+## GitHub Pages Link
+https://indoor-delivery-robot.github.io/delivery_bot/
+
 ## Video Link
 https://www.youtube.com/watch?v=zjnT4KaOUfY
 
